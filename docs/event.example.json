@@ -1,0 +1,21 @@
+{
+  "eventId": "BIO-2026-01-15-handout2-q4",
+  "subject": "BIO",
+  "topicId": "cell-transport",
+  "conceptTag": "osmosis-direction",
+  "title": "Direction of water movement in osmosis",
+  "questionId": "BIO-handout2-q4",
+  "answer": "B",
+  "correct": true,
+  "gradingStatus": "graded",
+  "assistance": "independent",
+  "exposure": "first-recorded",
+  "createdAt": "2026-01-15T19:30:00+08:00",
+  "assessmentFormat": "multiple-choice; optional reasoning",
+  "provenance": {
+    "source": "Handout 2, question 4",
+    "grader": "Tutor, checked against handout 2 answer key",
+    "historicalExposure": "known-unseen"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+
+# Answer keys for private question sets
+subjects/*/private/
+
+# Personal study history. Delete these lines in a private copy if you want git to keep your history.
+data/
+subjects/*/
+!subjects/README.md
+/REVIEW_QUEUE.md
+/progress.md

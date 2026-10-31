@@ -1,0 +1,15 @@
+{
+  "name": "review-tutor-kit",
+  "version": "1.0.0",
+  "description": "Rules and a small record keeper that turn an AI assistant into an honest exam-review tutor for any subject.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "new-subject": "node scripts/new-subject.mjs",
+    "record-event": "node scripts/record-event.mjs",
+    "checkpoint": "node scripts/checkpoint.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
